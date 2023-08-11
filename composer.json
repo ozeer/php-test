@@ -1,0 +1,8 @@
+{
+    "require-dev": {
+        "phpunit/phpunit": "^10.3"
+    },
+    "autoload": {
+        "classmap": ["Creations", "Behavioral"]
+    }
+}
